@@ -106,7 +106,7 @@ btn.addEventListener("click",function(){
 
 window.open(
 
-"https://wa.me/6281234567890?text=Halo%20Amora%20Panam,%20saya%20ingin%20memesan%20produk.",
+"https://wa.me/6282286612001?text=Halo%20Amora%20Panam,%20saya%20ingin%20memesan%20produk.",
 
 "_blank"
 
